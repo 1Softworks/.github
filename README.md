@@ -1,4 +1,3 @@
-# .github
 ![Image](https://github.com/1Softworks/.github/blob/main/logo.png?raw=true)
 
 # 👋 Hey Engineers
